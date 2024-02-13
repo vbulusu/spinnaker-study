@@ -1,1 +1,1 @@
-Used for Spinnaker CI/CD training and Canary
+Used for Spinnaker CI/CD training and Canary   
